@@ -1,3 +1,6 @@
+# We moved!
+Go to https://github.com/mainmachineispi/CollabOS . The rest will be 0.7 Alpha archiving.
+
 # CollabOS
 [![Build Status](https://travis-ci.com/mainmachineispi/CollabOS.svg?branch=master)](https://travis-ci.com/mainmachineispi/CollabOS)
 ## What is it?
